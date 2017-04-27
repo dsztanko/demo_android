@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">My Demo App</string>
     <string name="action_settings">Settings</string>
+    <string name="notify_me">Notify me!</string>
+    <string name="notification_generator">Notification Generator</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
 </resources>
